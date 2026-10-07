@@ -317,3 +317,4 @@ GROUP BY cohort_month ORDER BY cohort_month;
 
 ### Q2: How do partial indexes improve PostgreSQL performance?
 * **Answer**: A partial index indexes only a subset of rows matching a predicate (e.g., `WHERE order_status = 'Completed'`). This reduces index storage footprint on disk, improves cache hit ratios, and eliminates index update overhead during writes on cancelled/pending orders.
+# sales-analytics
