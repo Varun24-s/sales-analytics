@@ -1,0 +1,496 @@
+product_id,sku,product_name,category_id,base_price,cost_price,is_active
+1,SKU-01-0001,Ergonomic Electronics Laptop 1,1,232.5,112.18,True
+2,SKU-01-0002,Essential Electronics Headphones 2,1,1157.4,697.92,True
+3,SKU-01-0003,Compact Electronics Laptop 3,1,967.63,396.28,True
+4,SKU-01-0004,Pro Electronics Speaker 4,1,502.45,291.73,True
+5,SKU-01-0005,Compact Electronics Speaker 5,1,1130.82,690.25,True
+6,SKU-01-0006,Eco Electronics Speaker 6,1,783.96,379.01,True
+7,SKU-01-0007,Premium Electronics Lamp 7,1,1247.56,760.32,True
+8,SKU-01-0008,Smart Electronics Watch 8,1,402.11,276.32,True
+9,SKU-01-0009,Smart Electronics Laptop 9,1,320.56,137.53,True
+10,SKU-01-0010,Smart Electronics Air Fryer 10,1,543.87,224.64,True
+11,SKU-01-0011,Classic Electronics Coffee Maker 11,1,362.26,245.14,True
+12,SKU-01-0012,Pro Electronics Coffee Maker 12,1,581.12,342.04,True
+13,SKU-01-0013,Smart Electronics Air Fryer 13,1,449.97,189.38,True
+14,SKU-01-0014,Ergonomic Electronics Speaker 14,1,1204.98,838.14,True
+15,SKU-01-0015,Essential Electronics Serum 15,1,331.29,160.14,True
+16,SKU-01-0016,Ergonomic Electronics Serum 16,1,674.27,344.59,True
+17,SKU-01-0017,Essential Electronics Backpack 17,1,547.06,372.55,True
+18,SKU-01-0018,Ergonomic Electronics Laptop 18,1,991.86,447.67,True
+19,SKU-01-0019,Digital Electronics Speaker 19,1,412.41,211.91,True
+20,SKU-01-0020,Ergonomic Electronics Mat 20,1,924.02,559.39,True
+21,SKU-01-0021,Premium Electronics Speaker 21,1,1268.33,813.65,True
+22,SKU-01-0022,Eco Electronics Watch 22,1,286.04,192.77,True
+23,SKU-01-0023,Luxury Electronics Blender 23,1,1133.28,525.6,True
+24,SKU-01-0024,Classic Electronics Jacket 24,1,1350.08,800.4,True
+25,SKU-01-0025,Ultra Electronics Watch 25,1,381.51,237.87,True
+26,SKU-01-0026,Compact Electronics Watch 26,1,1171.11,618.97,True
+27,SKU-01-0027,Luxury Electronics Jacket 27,1,670.59,468.88,True
+28,SKU-01-0028,Ultra Electronics Coffee Maker 28,1,841.56,527.43,True
+29,SKU-01-0029,Pro Electronics Headphones 29,1,1015.67,647.62,True
+30,SKU-01-0030,Eco Electronics Air Fryer 30,1,282.58,145.38,True
+31,SKU-01-0031,Classic Electronics Coffee Maker 31,1,526.83,298.17,True
+32,SKU-01-0032,Premium Electronics Backpack 32,1,1136.93,687.29,True
+33,SKU-01-0033,Compact Electronics Lamp 33,1,546.86,323.9,True
+34,SKU-02-0001,Pro Apparel Watch 1,2,57.82,31.0,True
+35,SKU-02-0002,Digital Apparel Blender 2,2,89.16,61.66,True
+36,SKU-02-0003,Ultra Apparel Coffee Maker 3,2,110.39,72.98,True
+37,SKU-02-0004,Wireless Apparel Serum 4,2,80.28,46.78,True
+38,SKU-02-0005,Ultra Apparel Shirt 5,2,93.87,52.74,True
+39,SKU-02-0006,Compact Apparel Blender 6,2,10.05,5.0,True
+40,SKU-02-0007,Premium Apparel Laptop 7,2,112.2,74.46,True
+41,SKU-02-0008,Wireless Apparel Speaker 8,2,16.36,10.85,True
+42,SKU-02-0009,Pro Apparel Laptop 9,2,90.51,58.36,True
+43,SKU-02-0010,Compact Apparel Lamp 10,2,23.82,14.24,True
+44,SKU-02-0011,Compact Apparel Headphones 11,2,39.15,25.91,True
+45,SKU-02-0012,Eco Apparel Speaker 12,2,112.18,70.29,True
+46,SKU-02-0013,Digital Apparel Speaker 13,2,88.42,45.95,True
+47,SKU-02-0014,Ergonomic Apparel Backpack 14,2,51.07,34.21,True
+48,SKU-02-0015,Classic Apparel Laptop 15,2,37.26,15.62,True
+49,SKU-02-0016,Premium Apparel Air Fryer 16,2,70.93,40.89,True
+50,SKU-02-0017,Premium Apparel Laptop 17,2,87.86,36.7,True
+51,SKU-02-0018,Pro Apparel Blender 18,2,13.45,6.71,True
+52,SKU-02-0019,Compact Apparel Speaker 19,2,40.63,22.17,True
+53,SKU-02-0020,Compact Apparel Headphones 20,2,89.57,59.54,True
+54,SKU-02-0021,Luxury Apparel Shoes 21,2,36.72,19.9,True
+55,SKU-02-0022,Eco Apparel Speaker 22,2,20.37,12.18,True
+56,SKU-02-0023,Smart Apparel Jacket 23,2,55.22,36.4,True
+57,SKU-02-0024,Premium Apparel Backpack 24,2,81.88,48.62,True
+58,SKU-02-0025,Premium Apparel Jacket 25,2,90.1,57.68,True
+59,SKU-02-0026,Pro Apparel Speaker 26,2,31.07,17.43,True
+60,SKU-02-0027,Ultra Apparel Jacket 27,2,30.18,16.26,True
+61,SKU-02-0028,Pro Apparel Shoes 28,2,98.88,64.94,True
+62,SKU-02-0029,Pro Apparel Phone 29,2,81.73,45.95,True
+63,SKU-02-0030,Premium Apparel Laptop 30,2,111.9,73.25,True
+64,SKU-02-0031,Ultra Apparel Jacket 31,2,63.42,29.43,True
+65,SKU-02-0032,Eco Apparel Blender 32,2,16.44,8.45,True
+66,SKU-02-0033,Eco Apparel Watch 33,2,111.92,71.13,True
+67,SKU-03-0001,Wireless Home Jacket 1,3,86.62,53.63,True
+68,SKU-03-0002,Compact Home Backpack 2,3,89.02,39.74,True
+69,SKU-03-0003,Wireless Home Speaker 3,3,116.56,66.88,True
+70,SKU-03-0004,Compact Home Phone 4,3,92.27,38.49,True
+71,SKU-03-0005,Luxury Home Shoes 5,3,65.31,42.83,True
+72,SKU-03-0006,Ultra Home Phone 6,3,115.69,49.06,True
+73,SKU-03-0007,Ultra Home Laptop 7,3,75.45,45.46,True
+74,SKU-03-0008,Essential Home Jacket 8,3,23.18,15.46,True
+75,SKU-03-0009,Essential Home Air Fryer 9,3,75.39,44.16,True
+76,SKU-03-0010,Eco Home Backpack 10,3,74.2,41.32,True
+77,SKU-03-0011,Wireless Home Speaker 11,3,83.67,41.35,True
+78,SKU-03-0012,Wireless Home Jacket 12,3,24.39,14.48,True
+79,SKU-03-0013,Classic Home Shirt 13,3,112.19,76.37,True
+80,SKU-03-0014,Premium Home Shoes 14,3,78.32,44.56,True
+81,SKU-03-0015,Pro Home Laptop 15,3,69.14,38.15,True
+82,SKU-03-0016,Ultra Home Blender 16,3,48.38,20.35,True
+83,SKU-03-0017,Essential Home Shirt 17,3,41.34,21.97,True
+84,SKU-03-0018,Compact Home Mat 18,3,43.27,30.08,True
+85,SKU-03-0019,Ergonomic Home Coffee Maker 19,3,10.85,7.0,True
+86,SKU-03-0020,Wireless Home Blender 20,3,82.97,56.56,True
+87,SKU-03-0021,Ultra Home Watch 21,3,22.69,9.8,True
+88,SKU-03-0022,Compact Home Headphones 22,3,39.95,23.23,True
+89,SKU-03-0023,Digital Home Shirt 23,3,32.39,19.12,True
+90,SKU-03-0024,Wireless Home Coffee Maker 24,3,63.73,42.8,True
+91,SKU-03-0025,Premium Home Laptop 25,3,79.77,51.76,True
+92,SKU-03-0026,Premium Home Phone 26,3,46.68,20.5,True
+93,SKU-03-0027,Wireless Home Headphones 27,3,91.53,51.76,True
+94,SKU-03-0028,Eco Home Coffee Maker 28,3,11.05,4.67,True
+95,SKU-03-0029,Digital Home Blender 29,3,26.39,10.84,True
+96,SKU-03-0030,Smart Home Air Fryer 30,3,70.77,37.43,True
+97,SKU-03-0031,Premium Home Watch 31,3,50.11,34.07,True
+98,SKU-03-0032,Premium Home Blender 32,3,49.35,29.84,True
+99,SKU-03-0033,Ergonomic Home Laptop 33,3,48.9,27.77,True
+100,SKU-04-0001,Eco Beauty Air Fryer 1,4,92.44,62.65,True
+101,SKU-04-0002,Essential Beauty Serum 2,4,27.87,17.84,True
+102,SKU-04-0003,Ultra Beauty Blender 3,4,55.35,25.12,True
+103,SKU-04-0004,Smart Beauty Lamp 4,4,112.39,72.0,True
+104,SKU-04-0005,Digital Beauty Lamp 5,4,37.29,16.7,True
+105,SKU-04-0006,Digital Beauty Laptop 6,4,52.07,21.43,True
+106,SKU-04-0007,Classic Beauty Speaker 7,4,31.95,21.58,True
+107,SKU-04-0008,Smart Beauty Watch 8,4,100.26,66.31,True
+108,SKU-04-0009,Essential Beauty Phone 9,4,82.6,42.91,True
+109,SKU-04-0010,Wireless Beauty Serum 10,4,17.63,11.14,True
+110,SKU-04-0011,Smart Beauty Backpack 11,4,66.03,39.87,True
+111,SKU-04-0012,Compact Beauty Shirt 12,4,113.32,49.25,True
+112,SKU-04-0013,Wireless Beauty Headphones 13,4,73.86,51.34,True
+113,SKU-04-0014,Premium Beauty Laptop 14,4,75.62,38.09,True
+114,SKU-04-0015,Smart Beauty Jacket 15,4,76.68,42.44,True
+115,SKU-04-0016,Eco Beauty Blender 16,4,73.42,34.98,True
+116,SKU-04-0017,Digital Beauty Jacket 17,4,10.18,6.9,True
+117,SKU-04-0018,Compact Beauty Backpack 18,4,89.13,55.49,True
+118,SKU-04-0019,Ergonomic Beauty Speaker 19,4,50.06,21.07,True
+119,SKU-04-0020,Ergonomic Beauty Blender 20,4,46.32,22.89,True
+120,SKU-04-0021,Pro Beauty Mat 21,4,109.0,60.18,True
+121,SKU-04-0022,Ergonomic Beauty Jacket 22,4,45.87,27.94,True
+122,SKU-04-0023,Compact Beauty Headphones 23,4,31.09,18.64,True
+123,SKU-04-0024,Eco Beauty Backpack 24,4,92.29,41.73,True
+124,SKU-04-0025,Luxury Beauty Watch 25,4,54.66,35.54,True
+125,SKU-04-0026,Wireless Beauty Watch 26,4,33.11,21.05,True
+126,SKU-04-0027,Luxury Beauty Backpack 27,4,45.44,24.2,True
+127,SKU-04-0028,Ergonomic Beauty Speaker 28,4,66.22,42.26,True
+128,SKU-04-0029,Digital Beauty Headphones 29,4,82.47,40.01,True
+129,SKU-04-0030,Ergonomic Beauty Backpack 30,4,78.11,33.43,True
+130,SKU-04-0031,Essential Beauty Backpack 31,4,44.14,28.34,True
+131,SKU-04-0032,Ultra Beauty Phone 32,4,15.07,10.48,True
+132,SKU-04-0033,Luxury Beauty Serum 33,4,94.53,50.73,True
+133,SKU-05-0001,Ergonomic Sports Air Fryer 1,5,31.38,19.11,True
+134,SKU-05-0002,Classic Sports Jacket 2,5,36.83,21.98,True
+135,SKU-05-0003,Premium Sports Blender 3,5,92.6,58.43,True
+136,SKU-05-0004,Pro Sports Lamp 4,5,56.76,25.7,True
+137,SKU-05-0005,Digital Sports Coffee Maker 5,5,61.1,34.66,True
+138,SKU-05-0006,Pro Sports Shoes 6,5,24.66,13.3,True
+139,SKU-05-0007,Compact Sports Coffee Maker 7,5,75.5,51.72,True
+140,SKU-05-0008,Classic Sports Air Fryer 8,5,99.65,66.53,True
+141,SKU-05-0009,Eco Sports Serum 9,5,109.75,58.58,True
+142,SKU-05-0010,Ultra Sports Mat 10,5,104.76,56.05,True
+143,SKU-05-0011,Essential Sports Serum 11,5,80.14,50.47,True
+144,SKU-05-0012,Compact Sports Shoes 12,5,78.94,38.08,True
+145,SKU-05-0013,Pro Sports Mat 13,5,41.42,19.94,True
+146,SKU-05-0014,Smart Sports Blender 14,5,69.41,30.65,True
+147,SKU-05-0015,Essential Sports Jacket 15,5,86.33,52.83,True
+148,SKU-05-0016,Pro Sports Jacket 16,5,54.83,30.86,True
+149,SKU-05-0017,Eco Sports Phone 17,5,32.74,17.22,True
+150,SKU-05-0018,Luxury Sports Mat 18,5,12.14,8.06,True
+151,SKU-05-0019,Luxury Sports Jacket 19,5,62.46,42.65,True
+152,SKU-05-0020,Wireless Sports Lamp 20,5,52.89,35.3,True
+153,SKU-05-0021,Eco Sports Coffee Maker 21,5,92.22,52.0,True
+154,SKU-05-0022,Luxury Sports Blender 22,5,34.25,15.95,True
+155,SKU-05-0023,Eco Sports Shoes 23,5,13.18,6.6,True
+156,SKU-05-0024,Ergonomic Sports Lamp 24,5,54.47,24.48,True
+157,SKU-05-0025,Classic Sports Blender 25,5,24.03,14.1,True
+158,SKU-05-0026,Premium Sports Blender 26,5,53.34,30.37,True
+159,SKU-05-0027,Premium Sports Laptop 27,5,80.7,35.57,True
+160,SKU-05-0028,Classic Sports Headphones 28,5,15.52,7.97,True
+161,SKU-05-0029,Essential Sports Shoes 29,5,45.95,28.87,True
+162,SKU-05-0030,Eco Sports Watch 30,5,92.72,60.23,True
+163,SKU-05-0031,Wireless Sports Serum 31,5,19.0,7.71,True
+164,SKU-05-0032,Compact Sports Phone 32,5,119.99,60.59,True
+165,SKU-05-0033,Ergonomic Sports Laptop 33,5,95.93,57.13,True
+166,SKU-06-0001,Premium Smartphones Speaker 1,6,459.16,186.47,True
+167,SKU-06-0002,Ultra Smartphones Speaker 2,6,364.08,218.75,True
+168,SKU-06-0003,Luxury Smartphones Speaker 3,6,804.53,383.66,True
+169,SKU-06-0004,Smart Smartphones Headphones 4,6,987.65,680.61,True
+170,SKU-06-0005,Digital Smartphones Laptop 5,6,1211.12,543.95,True
+171,SKU-06-0006,Wireless Smartphones Laptop 6,6,952.28,646.28,True
+172,SKU-06-0007,Luxury Smartphones Backpack 7,6,1380.42,707.59,True
+173,SKU-06-0008,Digital Smartphones Speaker 8,6,298.79,181.42,True
+174,SKU-06-0009,Ergonomic Smartphones Speaker 9,6,332.46,210.03,True
+175,SKU-06-0010,Ergonomic Smartphones Air Fryer 10,6,1247.18,796.78,True
+176,SKU-06-0011,Luxury Smartphones Lamp 11,6,253.38,141.85,True
+177,SKU-06-0012,Ergonomic Smartphones Shirt 12,6,289.63,172.12,True
+178,SKU-06-0013,Premium Smartphones Serum 13,6,746.07,408.15,True
+179,SKU-06-0014,Eco Smartphones Shirt 14,6,1026.25,665.64,True
+180,SKU-06-0015,Digital Smartphones Headphones 15,6,766.12,475.1,True
+181,SKU-06-0016,Ergonomic Smartphones Watch 16,6,1000.68,676.34,True
+182,SKU-06-0017,Classic Smartphones Shoes 17,6,766.24,474.54,True
+183,SKU-06-0018,Wireless Smartphones Shirt 18,6,1307.22,848.67,True
+184,SKU-06-0019,Pro Smartphones Watch 19,6,1346.11,636.92,True
+185,SKU-06-0020,Classic Smartphones Air Fryer 20,6,993.42,510.32,True
+186,SKU-06-0021,Premium Smartphones Shoes 21,6,1306.23,593.75,True
+187,SKU-06-0022,Essential Smartphones Shirt 22,6,1237.17,621.19,True
+188,SKU-06-0023,Luxury Smartphones Mat 23,6,1344.13,761.77,True
+189,SKU-06-0024,Compact Smartphones Speaker 24,6,311.29,191.76,True
+190,SKU-06-0025,Classic Smartphones Coffee Maker 25,6,1185.6,719.88,True
+191,SKU-06-0026,Ergonomic Smartphones Mat 26,6,838.06,534.58,True
+192,SKU-06-0027,Pro Smartphones Watch 27,6,488.07,296.52,True
+193,SKU-06-0028,Wireless Smartphones Backpack 28,6,956.01,518.14,True
+194,SKU-06-0029,Compact Smartphones Shirt 29,6,753.14,469.79,True
+195,SKU-06-0030,Smart Smartphones Shirt 30,6,1113.7,536.0,True
+196,SKU-06-0031,Wireless Smartphones Speaker 31,6,356.84,163.35,True
+197,SKU-06-0032,Pro Smartphones Mat 32,6,896.61,563.66,True
+198,SKU-06-0033,Ultra Smartphones Speaker 33,6,481.29,262.43,True
+199,SKU-07-0001,Digital Laptops Air Fryer 1,7,1469.58,819.13,True
+200,SKU-07-0002,Wireless Laptops Laptop 2,7,1282.41,626.94,True
+201,SKU-07-0003,Smart Laptops Headphones 3,7,592.94,363.12,True
+202,SKU-07-0004,Ultra Laptops Watch 4,7,259.16,107.9,True
+203,SKU-07-0005,Wireless Laptops Mat 5,7,1427.31,844.06,True
+204,SKU-07-0006,Classic Laptops Laptop 6,7,1334.53,763.64,True
+205,SKU-07-0007,Classic Laptops Shoes 7,7,772.6,351.77,True
+206,SKU-07-0008,Premium Laptops Watch 8,7,1423.37,773.34,True
+207,SKU-07-0009,Pro Laptops Jacket 9,7,839.26,480.99,True
+208,SKU-07-0010,Ergonomic Laptops Phone 10,7,397.24,255.56,True
+209,SKU-07-0011,Wireless Laptops Laptop 11,7,1492.08,649.85,True
+210,SKU-07-0012,Eco Laptops Air Fryer 12,7,974.95,570.86,True
+211,SKU-07-0013,Compact Laptops Jacket 13,7,785.66,418.61,True
+212,SKU-07-0014,Luxury Laptops Jacket 14,7,596.98,350.01,True
+213,SKU-07-0015,Luxury Laptops Mat 15,7,328.99,206.88,True
+214,SKU-07-0016,Ergonomic Laptops Speaker 16,7,544.03,230.86,True
+215,SKU-07-0017,Essential Laptops Headphones 17,7,917.58,410.12,True
+216,SKU-07-0018,Eco Laptops Shoes 18,7,1096.17,593.0,True
+217,SKU-07-0019,Premium Laptops Speaker 19,7,574.53,278.54,True
+218,SKU-07-0020,Classic Laptops Laptop 20,7,1093.59,740.55,True
+219,SKU-07-0021,Ergonomic Laptops Air Fryer 21,7,1059.53,720.59,True
+220,SKU-07-0022,Eco Laptops Laptop 22,7,907.92,539.57,True
+221,SKU-07-0023,Wireless Laptops Serum 23,7,384.9,160.85,True
+222,SKU-07-0024,Wireless Laptops Air Fryer 24,7,1173.64,669.87,True
+223,SKU-07-0025,Wireless Laptops Shoes 25,7,361.65,219.38,True
+224,SKU-07-0026,Digital Laptops Jacket 26,7,1425.47,784.21,True
+225,SKU-07-0027,Classic Laptops Shoes 27,7,304.56,125.47,True
+226,SKU-07-0028,Eco Laptops Mat 28,7,619.01,294.1,True
+227,SKU-07-0029,Pro Laptops Speaker 29,7,1450.47,943.95,True
+228,SKU-07-0030,Luxury Laptops Air Fryer 30,7,1436.01,1005.02,True
+229,SKU-07-0031,Ergonomic Laptops Serum 31,7,550.35,226.78,True
+230,SKU-07-0032,Ultra Laptops Shoes 32,7,874.64,465.89,True
+231,SKU-07-0033,Wireless Laptops Headphones 33,7,1496.02,794.04,True
+232,SKU-08-0001,Classic Audio Laptop 1,8,214.49,112.07,True
+233,SKU-08-0002,Smart Audio Backpack 2,8,86.6,38.82,True
+234,SKU-08-0003,Eco Audio Mat 3,8,223.4,133.77,True
+235,SKU-08-0004,Eco Audio Serum 4,8,316.16,129.94,True
+236,SKU-08-0005,Pro Audio Shirt 5,8,138.33,60.14,True
+237,SKU-08-0006,Eco Audio Serum 6,8,230.1,160.25,True
+238,SKU-08-0007,Ergonomic Audio Serum 7,8,239.9,125.7,True
+239,SKU-08-0008,Essential Audio Coffee Maker 8,8,176.61,110.72,True
+240,SKU-08-0009,Ergonomic Audio Shoes 9,8,315.99,145.69,True
+241,SKU-08-0010,Compact Audio Headphones 10,8,374.68,199.12,True
+242,SKU-08-0011,Digital Audio Shoes 11,8,92.49,64.0,True
+243,SKU-08-0012,Luxury Audio Lamp 12,8,133.74,59.85,True
+244,SKU-08-0013,Compact Audio Phone 13,8,243.28,104.11,True
+245,SKU-08-0014,Pro Audio Shoes 14,8,381.46,226.71,True
+246,SKU-08-0015,Ultra Audio Shoes 15,8,376.42,183.53,True
+247,SKU-08-0016,Digital Audio Watch 16,8,195.41,106.45,True
+248,SKU-08-0017,Classic Audio Speaker 17,8,209.87,93.05,True
+249,SKU-08-0018,Essential Audio Blender 18,8,259.77,162.07,True
+250,SKU-08-0019,Ultra Audio Serum 19,8,74.42,47.02,True
+251,SKU-08-0020,Eco Audio Shirt 20,8,376.98,208.21,True
+252,SKU-08-0021,Premium Audio Watch 21,8,304.11,198.05,True
+253,SKU-08-0022,Luxury Audio Backpack 22,8,221.36,98.41,True
+254,SKU-08-0023,Compact Audio Shoes 23,8,170.78,96.59,True
+255,SKU-08-0024,Compact Audio Jacket 24,8,209.36,103.95,True
+256,SKU-08-0025,Essential Audio Mat 25,8,133.57,68.77,True
+257,SKU-08-0026,Eco Audio Phone 26,8,161.35,87.43,True
+258,SKU-08-0027,Eco Audio Jacket 27,8,395.93,252.49,True
+259,SKU-08-0028,Ergonomic Audio Headphones 28,8,223.36,91.82,True
+260,SKU-08-0029,Compact Audio Air Fryer 29,8,166.19,71.48,True
+261,SKU-08-0030,Classic Audio Laptop 30,8,234.07,125.71,True
+262,SKU-08-0031,Digital Audio Headphones 31,8,193.48,115.4,True
+263,SKU-08-0032,Ultra Audio Laptop 32,8,214.31,148.04,True
+264,SKU-08-0033,Smart Audio Air Fryer 33,8,292.44,173.99,True
+265,SKU-09-0001,Smart Men's Serum 1,9,84.18,47.15,True
+266,SKU-09-0002,Smart Men's Backpack 2,9,89.06,55.91,True
+267,SKU-09-0003,Compact Men's Phone 3,9,77.92,36.66,True
+268,SKU-09-0004,Ergonomic Men's Blender 4,9,41.6,19.48,True
+269,SKU-09-0005,Pro Men's Jacket 5,9,117.62,73.88,True
+270,SKU-09-0006,Digital Men's Serum 6,9,21.05,9.47,True
+271,SKU-09-0007,Wireless Men's Blender 7,9,13.17,6.55,True
+272,SKU-09-0008,Premium Men's Watch 8,9,49.42,26.15,True
+273,SKU-09-0009,Essential Men's Coffee Maker 9,9,55.32,33.44,True
+274,SKU-09-0010,Ultra Men's Headphones 10,9,29.25,17.05,True
+275,SKU-09-0011,Eco Men's Air Fryer 11,9,85.14,46.77,True
+276,SKU-09-0012,Luxury Men's Headphones 12,9,35.53,21.01,True
+277,SKU-09-0013,Classic Men's Watch 13,9,83.35,55.82,True
+278,SKU-09-0014,Classic Men's Blender 14,9,41.63,23.48,True
+279,SKU-09-0015,Pro Men's Shoes 15,9,113.98,79.36,True
+280,SKU-09-0016,Wireless Men's Backpack 16,9,115.82,70.31,True
+281,SKU-09-0017,Classic Men's Serum 17,9,43.23,30.25,True
+282,SKU-09-0018,Classic Men's Laptop 18,9,36.08,20.62,True
+283,SKU-09-0019,Luxury Men's Watch 19,9,119.2,58.24,True
+284,SKU-09-0020,Ergonomic Men's Jacket 20,9,40.19,22.9,True
+285,SKU-09-0021,Ergonomic Men's Lamp 21,9,91.91,38.12,True
+286,SKU-09-0022,Luxury Men's Mat 22,9,64.63,43.38,True
+287,SKU-09-0023,Wireless Men's Lamp 23,9,97.87,56.97,True
+288,SKU-09-0024,Smart Men's Speaker 24,9,80.02,46.91,True
+289,SKU-09-0025,Ergonomic Men's Lamp 25,9,89.3,53.38,True
+290,SKU-09-0026,Ultra Men's Backpack 26,9,20.68,12.16,True
+291,SKU-09-0027,Premium Men's Watch 27,9,96.75,39.67,True
+292,SKU-09-0028,Smart Men's Mat 28,9,24.45,16.45,True
+293,SKU-09-0029,Smart Men's Mat 29,9,55.7,25.64,True
+294,SKU-09-0030,Compact Men's Blender 30,9,116.86,65.35,True
+295,SKU-09-0031,Wireless Men's Serum 31,9,28.09,18.94,True
+296,SKU-09-0032,Classic Men's Lamp 32,9,42.46,28.07,True
+297,SKU-09-0033,Pro Men's Shoes 33,9,115.92,51.26,True
+298,SKU-10-0001,Essential Women's Serum 1,10,84.39,50.83,True
+299,SKU-10-0002,Eco Women's Serum 2,10,98.5,50.21,True
+300,SKU-10-0003,Eco Women's Phone 3,10,39.08,17.08,True
+301,SKU-10-0004,Smart Women's Backpack 4,10,92.39,44.22,True
+302,SKU-10-0005,Eco Women's Serum 5,10,80.24,41.04,True
+303,SKU-10-0006,Ergonomic Women's Speaker 6,10,61.86,36.24,True
+304,SKU-10-0007,Compact Women's Shirt 7,10,110.68,51.62,True
+305,SKU-10-0008,Pro Women's Backpack 8,10,100.62,67.7,True
+306,SKU-10-0009,Wireless Women's Backpack 9,10,54.91,24.27,True
+307,SKU-10-0010,Premium Women's Watch 10,10,119.55,51.98,True
+308,SKU-10-0011,Essential Women's Blender 11,10,69.13,35.71,True
+309,SKU-10-0012,Smart Women's Backpack 12,10,114.43,69.68,True
+310,SKU-10-0013,Compact Women's Jacket 13,10,74.6,46.1,True
+311,SKU-10-0014,Eco Women's Backpack 14,10,20.88,11.42,True
+312,SKU-10-0015,Eco Women's Watch 15,10,13.59,6.95,True
+313,SKU-10-0016,Classic Women's Shoes 16,10,114.56,75.22,True
+314,SKU-10-0017,Pro Women's Backpack 17,10,50.4,33.79,True
+315,SKU-10-0018,Ergonomic Women's Shirt 18,10,16.65,8.04,True
+316,SKU-10-0019,Pro Women's Serum 19,10,100.66,43.03,True
+317,SKU-10-0020,Essential Women's Backpack 20,10,80.34,55.54,True
+318,SKU-10-0021,Premium Women's Lamp 21,10,46.68,32.52,True
+319,SKU-10-0022,Luxury Women's Speaker 22,10,17.54,11.04,True
+320,SKU-10-0023,Essential Women's Air Fryer 23,10,33.75,22.31,True
+321,SKU-10-0024,Smart Women's Lamp 24,10,26.22,17.57,True
+322,SKU-10-0025,Premium Women's Watch 25,10,104.42,46.3,True
+323,SKU-10-0026,Ultra Women's Coffee Maker 26,10,37.56,16.99,True
+324,SKU-10-0027,Ergonomic Women's Serum 27,10,12.83,5.19,True
+325,SKU-10-0028,Essential Women's Air Fryer 28,10,45.61,20.63,True
+326,SKU-10-0029,Premium Women's Headphones 29,10,91.59,51.09,True
+327,SKU-10-0030,Digital Women's Laptop 30,10,62.38,39.51,True
+328,SKU-10-0031,Compact Women's Air Fryer 31,10,21.99,12.12,True
+329,SKU-10-0032,Luxury Women's Phone 32,10,89.99,60.53,True
+330,SKU-10-0033,Ergonomic Women's Coffee Maker 33,10,43.17,25.6,True
+331,SKU-11-0001,Premium Kitchen Phone 1,11,399.5,261.35,True
+332,SKU-11-0002,Eco Kitchen Backpack 2,11,87.78,53.87,True
+333,SKU-11-0003,Classic Kitchen Laptop 3,11,364.73,181.14,True
+334,SKU-11-0004,Ultra Kitchen Laptop 4,11,94.16,55.3,True
+335,SKU-11-0005,Luxury Kitchen Coffee Maker 5,11,299.24,153.89,True
+336,SKU-11-0006,Luxury Kitchen Coffee Maker 6,11,153.2,84.52,True
+337,SKU-11-0007,Eco Kitchen Laptop 7,11,327.57,142.27,True
+338,SKU-11-0008,Ergonomic Kitchen Backpack 8,11,357.19,201.96,True
+339,SKU-11-0009,Essential Kitchen Jacket 9,11,208.03,97.47,True
+340,SKU-11-0010,Smart Kitchen Serum 10,11,208.71,109.53,True
+341,SKU-11-0011,Pro Kitchen Shirt 11,11,199.36,119.52,True
+342,SKU-11-0012,Smart Kitchen Headphones 12,11,290.38,157.47,True
+343,SKU-11-0013,Pro Kitchen Serum 13,11,79.87,42.3,True
+344,SKU-11-0014,Digital Kitchen Mat 14,11,180.42,79.21,True
+345,SKU-11-0015,Premium Kitchen Air Fryer 15,11,384.81,218.77,True
+346,SKU-11-0016,Ergonomic Kitchen Laptop 16,11,193.77,128.29,True
+347,SKU-11-0017,Eco Kitchen Serum 17,11,370.54,153.93,True
+348,SKU-11-0018,Wireless Kitchen Air Fryer 18,11,159.35,68.69,True
+349,SKU-11-0019,Compact Kitchen Speaker 19,11,104.15,56.73,True
+350,SKU-11-0020,Pro Kitchen Shirt 20,11,345.87,176.49,True
+351,SKU-11-0021,Wireless Kitchen Air Fryer 21,11,129.15,68.29,True
+352,SKU-11-0022,Compact Kitchen Lamp 22,11,336.44,196.51,True
+353,SKU-11-0023,Ergonomic Kitchen Coffee Maker 23,11,59.18,40.17,True
+354,SKU-11-0024,Digital Kitchen Watch 24,11,60.12,28.98,True
+355,SKU-11-0025,Wireless Kitchen Blender 25,11,168.93,67.88,True
+356,SKU-11-0026,Ultra Kitchen Air Fryer 26,11,280.06,117.87,True
+357,SKU-11-0027,Digital Kitchen Backpack 27,11,390.12,166.79,True
+358,SKU-11-0028,Compact Kitchen Speaker 28,11,181.66,97.39,True
+359,SKU-11-0029,Ultra Kitchen Shirt 29,11,159.06,79.1,True
+360,SKU-11-0030,Luxury Kitchen Air Fryer 30,11,79.72,33.15,True
+361,SKU-11-0031,Ultra Kitchen Lamp 31,11,266.23,160.32,True
+362,SKU-11-0032,Wireless Kitchen Shoes 32,11,281.67,153.71,True
+363,SKU-11-0033,Classic Kitchen Jacket 33,11,145.6,91.22,True
+364,SKU-12-0001,Pro Home Shirt 1,12,57.28,27.78,True
+365,SKU-12-0002,Ergonomic Home Air Fryer 2,12,63.52,38.12,True
+366,SKU-12-0003,Premium Home Speaker 3,12,53.47,31.0,True
+367,SKU-12-0004,Premium Home Speaker 4,12,43.15,19.99,True
+368,SKU-12-0005,Ultra Home Lamp 5,12,38.1,18.99,True
+369,SKU-12-0006,Premium Home Shoes 6,12,92.17,41.73,True
+370,SKU-12-0007,Eco Home Coffee Maker 7,12,87.4,48.08,True
+371,SKU-12-0008,Ergonomic Home Lamp 8,12,48.95,25.41,True
+372,SKU-12-0009,Digital Home Phone 9,12,57.98,31.19,True
+373,SKU-12-0010,Pro Home Serum 10,12,44.43,23.49,True
+374,SKU-12-0011,Eco Home Mat 11,12,80.41,39.15,True
+375,SKU-12-0012,Eco Home Phone 12,12,116.28,52.51,True
+376,SKU-12-0013,Luxury Home Shoes 13,12,101.52,68.62,True
+377,SKU-12-0014,Pro Home Jacket 14,12,102.89,48.67,True
+378,SKU-12-0015,Luxury Home Jacket 15,12,67.63,35.08,True
+379,SKU-12-0016,Wireless Home Mat 16,12,47.34,23.67,True
+380,SKU-12-0017,Ultra Home Laptop 17,12,66.15,28.72,True
+381,SKU-12-0018,Compact Home Speaker 18,12,109.65,55.35,True
+382,SKU-12-0019,Digital Home Serum 19,12,81.0,35.99,True
+383,SKU-12-0020,Pro Home Headphones 20,12,38.15,17.25,True
+384,SKU-12-0021,Ultra Home Lamp 21,12,93.5,39.51,True
+385,SKU-12-0022,Ergonomic Home Shoes 22,12,61.03,34.73,True
+386,SKU-12-0023,Luxury Home Shoes 23,12,84.92,56.44,True
+387,SKU-12-0024,Ergonomic Home Backpack 24,12,118.52,58.9,True
+388,SKU-12-0025,Ergonomic Home Shirt 25,12,26.6,11.18,True
+389,SKU-12-0026,Classic Home Backpack 26,12,43.3,20.89,True
+390,SKU-12-0027,Premium Home Shirt 27,12,65.8,32.45,True
+391,SKU-12-0028,Classic Home Phone 28,12,16.25,10.55,True
+392,SKU-12-0029,Pro Home Backpack 29,12,105.07,68.99,True
+393,SKU-12-0030,Luxury Home Air Fryer 30,12,65.77,35.44,True
+394,SKU-12-0031,Compact Home Lamp 31,12,91.28,37.64,True
+395,SKU-12-0032,Luxury Home Backpack 32,12,30.7,17.85,True
+396,SKU-12-0033,Compact Home Headphones 33,12,115.35,61.73,True
+397,SKU-13-0001,Smart Skincare Mat 1,13,19.27,11.44,True
+398,SKU-13-0002,Premium Skincare Speaker 2,13,87.84,61.25,True
+399,SKU-13-0003,Compact Skincare Coffee Maker 3,13,77.07,39.24,True
+400,SKU-13-0004,Wireless Skincare Jacket 4,13,54.96,27.56,True
+401,SKU-13-0005,Luxury Skincare Phone 5,13,96.81,57.52,True
+402,SKU-13-0006,Pro Skincare Shirt 6,13,20.39,12.31,True
+403,SKU-13-0007,Wireless Skincare Watch 7,13,89.61,53.49,True
+404,SKU-13-0008,Luxury Skincare Serum 8,13,26.53,11.26,True
+405,SKU-13-0009,Ergonomic Skincare Headphones 9,13,110.84,54.65,True
+406,SKU-13-0010,Ergonomic Skincare Mat 10,13,82.83,36.34,True
+407,SKU-13-0011,Digital Skincare Laptop 11,13,44.05,22.6,True
+408,SKU-13-0012,Smart Skincare Serum 12,13,24.05,14.69,True
+409,SKU-13-0013,Digital Skincare Backpack 13,13,110.37,47.24,True
+410,SKU-13-0014,Ergonomic Skincare Jacket 14,13,65.93,26.73,True
+411,SKU-13-0015,Wireless Skincare Headphones 15,13,114.63,57.6,True
+412,SKU-13-0016,Classic Skincare Speaker 16,13,34.91,15.4,True
+413,SKU-13-0017,Pro Skincare Watch 17,13,102.89,44.28,True
+414,SKU-13-0018,Compact Skincare Serum 18,13,91.25,50.91,True
+415,SKU-13-0019,Ergonomic Skincare Shirt 19,13,106.4,62.29,True
+416,SKU-13-0020,Luxury Skincare Jacket 20,13,26.96,12.25,True
+417,SKU-13-0021,Digital Skincare Lamp 21,13,78.72,52.81,True
+418,SKU-13-0022,Digital Skincare Shoes 22,13,14.8,7.54,True
+419,SKU-13-0023,Digital Skincare Speaker 23,13,116.65,68.03,True
+420,SKU-13-0024,Digital Skincare Lamp 24,13,59.38,33.26,True
+421,SKU-13-0025,Wireless Skincare Lamp 25,13,96.28,64.62,True
+422,SKU-13-0026,Essential Skincare Shirt 26,13,84.61,48.32,True
+423,SKU-13-0027,Classic Skincare Shoes 27,13,94.64,59.95,True
+424,SKU-13-0028,Compact Skincare Coffee Maker 28,13,56.05,25.15,True
+425,SKU-13-0029,Essential Skincare Lamp 29,13,76.51,50.64,True
+426,SKU-13-0030,Premium Skincare Backpack 30,13,62.86,32.14,True
+427,SKU-13-0031,Pro Skincare Mat 31,13,103.05,67.53,True
+428,SKU-13-0032,Wireless Skincare Laptop 32,13,93.94,45.26,True
+429,SKU-13-0033,Compact Skincare Headphones 33,13,101.41,43.35,True
+430,SKU-14-0001,Essential Fitness Serum 1,14,207.88,104.95,True
+431,SKU-14-0002,Premium Fitness Jacket 2,14,68.63,37.79,True
+432,SKU-14-0003,Essential Fitness Jacket 3,14,398.07,204.0,True
+433,SKU-14-0004,Premium Fitness Shirt 4,14,375.78,244.92,True
+434,SKU-14-0005,Ergonomic Fitness Shirt 5,14,326.97,144.29,True
+435,SKU-14-0006,Wireless Fitness Blender 6,14,340.41,207.25,True
+436,SKU-14-0007,Ultra Fitness Lamp 7,14,296.93,158.73,True
+437,SKU-14-0008,Premium Fitness Blender 8,14,77.72,37.06,True
+438,SKU-14-0009,Ultra Fitness Coffee Maker 9,14,379.07,220.87,True
+439,SKU-14-0010,Eco Fitness Laptop 10,14,321.65,151.59,True
+440,SKU-14-0011,Pro Fitness Phone 11,14,133.44,78.95,True
+441,SKU-14-0012,Luxury Fitness Shoes 12,14,71.97,46.85,True
+442,SKU-14-0013,Classic Fitness Air Fryer 13,14,237.61,140.09,True
+443,SKU-14-0014,Luxury Fitness Speaker 14,14,301.48,146.94,True
+444,SKU-14-0015,Premium Fitness Air Fryer 15,14,173.48,99.09,True
+445,SKU-14-0016,Ultra Fitness Backpack 16,14,283.87,158.13,True
+446,SKU-14-0017,Smart Fitness Laptop 17,14,383.68,216.1,True
+447,SKU-14-0018,Compact Fitness Coffee Maker 18,14,57.11,37.81,True
+448,SKU-14-0019,Premium Fitness Backpack 19,14,185.4,94.92,True
+449,SKU-14-0020,Digital Fitness Phone 20,14,174.97,73.53,True
+450,SKU-14-0021,Essential Fitness Mat 21,14,279.98,120.7,True
+451,SKU-14-0022,Luxury Fitness Mat 22,14,314.83,138.53,True
+452,SKU-14-0023,Smart Fitness Coffee Maker 23,14,168.48,99.88,True
+453,SKU-14-0024,Ergonomic Fitness Shoes 24,14,393.28,213.77,True
+454,SKU-14-0025,Ultra Fitness Lamp 25,14,97.19,59.75,True
+455,SKU-14-0026,Classic Fitness Phone 26,14,152.69,63.08,True
+456,SKU-14-0027,Essential Fitness Blender 27,14,64.66,43.97,True
+457,SKU-14-0028,Compact Fitness Jacket 28,14,396.18,223.01,True
+458,SKU-14-0029,Wireless Fitness Phone 29,14,313.64,143.44,True
+459,SKU-14-0030,Smart Fitness Serum 30,14,323.28,213.28,True
+460,SKU-14-0031,Smart Fitness Watch 31,14,93.56,47.75,True
+461,SKU-14-0032,Eco Fitness Mat 32,14,203.9,140.07,True
+462,SKU-14-0033,Smart Fitness Headphones 33,14,223.66,122.85,True
+463,SKU-15-0001,Compact Footwear Watch 1,15,98.12,60.65,True
+464,SKU-15-0002,Pro Footwear Jacket 2,15,76.27,49.32,True
+465,SKU-15-0003,Compact Footwear Watch 3,15,45.33,19.22,True
+466,SKU-15-0004,Ergonomic Footwear Watch 4,15,43.71,25.39,True
+467,SKU-15-0005,Eco Footwear Headphones 5,15,85.87,43.4,True
+468,SKU-15-0006,Premium Footwear Mat 6,15,105.7,53.46,True
+469,SKU-15-0007,Eco Footwear Watch 7,15,80.34,51.21,True
+470,SKU-15-0008,Premium Footwear Laptop 8,15,83.83,43.75,True
+471,SKU-15-0009,Compact Footwear Lamp 9,15,92.49,41.44,True
+472,SKU-15-0010,Premium Footwear Headphones 10,15,103.35,62.36,True
+473,SKU-15-0011,Classic Footwear Phone 11,15,23.88,11.24,True
+474,SKU-15-0012,Ergonomic Footwear Shirt 12,15,49.83,34.13,True
+475,SKU-15-0013,Premium Footwear Air Fryer 13,15,26.87,14.37,True
+476,SKU-15-0014,Smart Footwear Shirt 14,15,58.83,24.89,True
+477,SKU-15-0015,Ultra Footwear Coffee Maker 15,15,50.36,24.89,True
+478,SKU-15-0016,Wireless Footwear Speaker 16,15,115.66,47.16,True
+479,SKU-15-0017,Ultra Footwear Shoes 17,15,66.95,45.13,True
+480,SKU-15-0018,Pro Footwear Watch 18,15,95.24,58.21,True
+481,SKU-15-0019,Essential Footwear Air Fryer 19,15,41.41,27.95,True
+482,SKU-15-0020,Classic Footwear Speaker 20,15,23.48,15.4,True
+483,SKU-15-0021,Classic Footwear Headphones 21,15,108.85,58.08,True
+484,SKU-15-0022,Pro Footwear Lamp 22,15,85.01,55.57,True
+485,SKU-15-0023,Smart Footwear Backpack 23,15,48.21,20.22,True
+486,SKU-15-0024,Compact Footwear Watch 24,15,108.05,70.82,True
+487,SKU-15-0025,Digital Footwear Mat 25,15,112.0,66.23,True
+488,SKU-15-0026,Smart Footwear Coffee Maker 26,15,34.66,24.11,True
+489,SKU-15-0027,Ultra Footwear Speaker 27,15,96.94,39.54,True
+490,SKU-15-0028,Compact Footwear Air Fryer 28,15,50.57,32.42,True
+491,SKU-15-0029,Compact Footwear Headphones 29,15,77.31,32.92,True
+492,SKU-15-0030,Wireless Footwear Jacket 30,15,119.96,73.85,True
+493,SKU-15-0031,Compact Footwear Jacket 31,15,94.61,61.21,True
+494,SKU-15-0032,Pro Footwear Headphones 32,15,116.96,69.32,True
+495,SKU-15-0033,Classic Footwear Shoes 33,15,84.81,42.69,True

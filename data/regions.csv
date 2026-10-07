@@ -1,0 +1,11 @@
+region_id,region_name,country,city,state,postal_code
+1,North America East,USA,New York,NY,10001
+2,North America West,USA,Los Angeles,CA,90001
+3,North America Central,USA,Chicago,IL,60601
+4,North America South,USA,Houston,TX,77001
+5,Europe West,UK,London,ENG,EC1A 1BB
+6,Europe Central,Germany,Berlin,BE,10115
+7,Europe South,France,Paris,IDF,75001
+8,Asia Pacific East,Japan,Tokyo,TK,100-0001
+9,Asia Pacific South,India,Mumbai,MH,400001
+10,Asia Pacific SE,Singapore,Singapore,SG,018989

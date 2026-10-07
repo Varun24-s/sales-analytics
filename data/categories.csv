@@ -1,0 +1,16 @@
+category_id,category_name,parent_category_id,description
+1,Electronics,,Consumer electronic devices and gadgets
+2,Apparel,,"Clothing, footwear, and accessories"
+3,Home & Kitchen,,"Furniture, cookware, and appliances"
+4,Beauty & Personal Care,,Cosmetics and skincare products
+5,Sports & Outdoors,,Fitness gear and outdoor equipment
+6,Smartphones & Tablets,1,Mobile phones and tablets
+7,Laptops & Computers,1,Desktop and laptop computers
+8,Audio & Headphones,1,Headphones and speakers
+9,Men's Clothing,2,"Shirts, pants, jackets for men"
+10,Women's Clothing,2,"Dresses, tops, outerwear for women"
+11,Kitchen Appliances,3,"Coffee makers, blenders, air fryers"
+12,Home Decor,3,"Lamps, wall art, rugs"
+13,Skincare,4,"Moisturizers, serums, cleansers"
+14,Fitness Equipment,5,"Dumbbells, yoga mats, treadmills"
+15,Footwear,2,"Running shoes, boots, sneakers"
